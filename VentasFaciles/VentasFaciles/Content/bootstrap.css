@@ -35,6 +35,29 @@ section,
 summary {
   display: block;
 }
+.pie_de_pagina {
+position:absolute;
+top: 600px;
+}
+header {
+  position: relative;
+  text-align: center;
+}
+.margen_abajo
+{
+margin-top: 250px;
+}
+hr
+{
+    border-width: 3px;
+    max-width: 50px;
+    border-color:#247b93
+}
+.entrar{
+position:absolute;
+top: 330px;
+left: 430px;
+}
 
 audio,
 canvas,
@@ -426,11 +449,11 @@ cite {
 }
 
 .text-muted {
-  color: #999999;
+  color: #00BFFF;
 }
 
 .text-primary {
-  color: #428bca;
+  color: #00BFFF;
 }
 
 .text-warning {
@@ -473,9 +496,10 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Arial Narrow Bold', sans-serif;
   font-weight: 500;
   line-height: 1.1;
+  color: #00BFFF;
 }
 
 h1 small,
@@ -492,7 +516,7 @@ h6 small,
 .h6 small {
   font-weight: normal;
   line-height: 1;
-  color: #999999;
+  color: #00BFFF;
 }
 
 h1,
