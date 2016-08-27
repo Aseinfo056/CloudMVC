@@ -214,7 +214,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="imagenes\bg_computacion.jpg" />
     <Content Include="imagenes\header.jpg" />
+    <Content Include="imagenes\Imagen1.jpg" />
     <Content Include="portada richi\css\creative.css" />
     <Content Include="portada richi\css\creative.min.css" />
     <Content Include="portada richi\img\header.jpg" />
