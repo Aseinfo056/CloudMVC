@@ -26,6 +26,7 @@ namespace VentasFaciles
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       //"~/Content/readable.css",
                        "~/Content/bootstrap.css",
+                      "~/Content/bootstrap.css",
                       "~/Content/site.css"));
         }
     }
